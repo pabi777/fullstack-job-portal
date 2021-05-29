@@ -1,0 +1,4 @@
+node_modules
+dbcred.ini
+dependencies/
+.vscode/
